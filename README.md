@@ -71,7 +71,7 @@ Hasil
 menjadi
 
 
-![](images/11%20changecolorbr.jpg)
+![](images/11%20changecolor.jpg)
 
 
 Hasil
@@ -139,3 +139,4 @@ Laporan Praktikum
 screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
+
