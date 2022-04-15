@@ -11,8 +11,10 @@ Praktikum 6: Web Framework
 Tujuan
 1. Mahasiswa mampu memahami konsep dasar dari web framework.
 2. Mahasiswa mampu memahami struktur dasar layout web menggunakan css framework.
-3. Mahasiswa mampu memahami elemen-elemen css framewordk
-Instruksi Praktikum
+3. Mahasiswa mampu memahami elemen-elemen css framework
+
+#### Instruksi Praktikum
+
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab6_css_framework
 3. Buat file baru dokumen html
@@ -65,11 +67,15 @@ Hasil
 
 ![](images/10%20changecolor.jpg)
 
+
 menjadi
+
 
 ![](images/11%20changecolorbr.jpg)
 
+
 Hasil
+
 
 ![](images/exceptleft.jpg)
 
