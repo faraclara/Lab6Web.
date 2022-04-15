@@ -67,17 +67,18 @@ Hasil
 
 ![](images/10%20changecolor.jpg)
 
+![](images/11%20changecolor.jpg)
+
 
 menjadi
 
+![](images/exceptleft.jpg)
 
-![](images/11%20changecolor.jpg)
+
 
 
 Hasil
 
-
-![](images/exceptleft.jpg)
 
 ![](images/12%20changecolorbr.jpg)
 
