@@ -64,24 +64,72 @@ Hasil
 ###### Mengubah Warna Navbar
 
 ![](images/10%20changecolor.jpg)
+
 menjadi
+
 ![](images/11%20changecolorbr.jpg)
+
+Hasil
+
 ![](images/exceptleft.jpg)
+
 ![](images/12%20changecolorbr.jpg)
+
+###### Menambah Idhero
+
 ![](images/13%20idhero.jpg)
+
+###### Menambah IdheroCSS
+
 ![](images/13%20idherocss.jpg)
+
+Hasil
+
 ![](images/14%20idheroresult.jpg)
 
+###### Menambah cssmain
 
 ![](images/15%20cssmain.jpg)
+
+###### Menambah idsidebar
+
 ![](images/16%20addwidget.jpg)
+
+
 ![](images/17%20addwidget.jpg)
-![](images/18%20csswidget.jpg)
+
+###### Menambah css
+
+![](images/18%csswidget.jpg)
+
+###### Menambah idmain
+
 ![](images/19%20mainhtml.jpg)
 
 
+###### Menambah css pada idmain
+
 ![](images/20%20maincss1.jpg)
 ![](images/21%20maincss2.jpg)
+
+###### Menambah iddivider
+
 ![](images/22%20divider.jpg)
+
+###### Menambah css
+
+
 ![](images/23%20cssdivider.jpg)
+
+#### Hasil dari praktikum
+
 ![](images/24%20end.jpg)
+
+Laporan Praktikum
+1. Buatlah repository baru dengan nama Lab6Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta 
+screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
