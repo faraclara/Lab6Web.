@@ -96,9 +96,13 @@ Hasil
 
 ###### Menambah cssmain
 
+
 ![](images/15%20cssmain.jpg)
 
+
 ###### Menambah idsidebar
+
+![](images/idkleftbehind.jpg)
 
 ![](images/16%20addwidget.jpg)
 
